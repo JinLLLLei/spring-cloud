@@ -1,2 +1,2 @@
 # spring-cloud
-spring cloud demo
+discovery-server
